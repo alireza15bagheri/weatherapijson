@@ -1,3 +1,7 @@
+#################################
+# By Alireza Bagheri
+# 2020 September 21
+#################################
 import requests
 
 def weatherCondition(user_api_key):
